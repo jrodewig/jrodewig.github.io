@@ -1,0 +1,20 @@
+html,
+body {
+  font-size: 20px;
+  height: 100%;
+}
+
+footer p {
+  font-size: 0.75rem;
+}
+
+img {
+  border-radius: 50%;
+  max-width: 25%;
+  min-width: 300px;
+}
+
+p {
+  padding-bottom: 1.5rem
+}
+
