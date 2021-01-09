@@ -1,7 +1,23 @@
 html,
 body {
+  background-color: #222831;
+  color: #ececec;
   font-size: 20px;
   height: 100%;
+}
+
+a {
+  color: #f2a365;
+}
+
+a:hover, a:focus {
+  color: #f2a365;
+  text-decoration: underline;
+}
+
+h1,
+h2 {
+  color: #fff;
 }
 
 footer p {
