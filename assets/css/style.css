@@ -1,23 +1,18 @@
 html,
 body {
-  background-color: #222831;
-  color: #ececec;
+  background-color: #fff;
+  color: #383a42;
   font-size: 20px;
   height: 100%;
 }
 
 a {
-  color: #f2a365;
+  color: #4078f2;
 }
 
 a:hover, a:focus {
-  color: #f2a365;
+  color: #4078f2;
   text-decoration: underline;
-}
-
-h1,
-h2 {
-  color: #fff;
 }
 
 footer p {
