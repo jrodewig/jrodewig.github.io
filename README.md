@@ -1,3 +1,3 @@
 # jamesrodewig.com
 
-Personal website
+Personal website.
